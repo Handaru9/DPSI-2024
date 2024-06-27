@@ -1,5 +1,5 @@
 {
-  "name": "backend-mabduh",
+  "name": "backend-trihandaru",
   "version": "1.0.0",
   "description": "membuat aplikasi backend",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "Muhammad Abduh",
+  "author": "Tri Handaru",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
